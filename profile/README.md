@@ -10,15 +10,19 @@
 
 <br>
 
-## O que a gente faz
+<h2 align="center">O que a gente faz</h2>
 
-- **Expansão do [Fluxer](https://fluxer.com) no Brasil**: comunicação aberta e livre, sem rastreamento nem anúncios.
-- **Chat, voz e comunidades em código aberto de verdade**: não confiamos em corporações, confiamos em transparência.
-- **Software brasileiro**: ajudando a criar uma nova era, mais segura e eficiente para todos.
+<p align="center">
+  <b>Expansão do <a href="https://fluxer.com">Fluxer</a> no Brasil</b>: comunicação aberta e livre, sem rastreamento nem anúncios.
+  <br><br>
+  <b>Chat, voz e comunidades em código aberto de verdade</b>: não confiamos em corporações, confiamos em transparência.
+  <br><br>
+  <b>Software brasileiro</b>: ajudando a criar uma nova era, mais segura e eficiente para todos.
+</p>
 
 <br>
 
-## Projetos e links
+<h2 align="center">Projetos e links</h2>
 
 <div align="center">
 <table>
