@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/banner.png" alt="the stupid team" width="100%">
+<img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/banner.png" alt="the stupid team" width="100%">
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/skills.png" alt="fluxer.js, Yuzuha, Administração, Marketing digital, Desenvolvimento de software, Experiência do usuário" width="620">
+<img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/skills.png" alt="fluxer.js, Yuzuha, Administração, Marketing digital, Desenvolvimento de software, Experiência do usuário" width="620">
 
 </div>
 
@@ -28,16 +28,16 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://stellabot.site"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/card-stella.png" alt="Stella: bot multifuncional com foco em economia para o Fluxer" width="200"></a>
+      <a href="https://stellabot.site"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/card-stella.png" alt="Stella: bot multifuncional com foco em economia para o Fluxer" width="200"></a>
     </td>
     <td align="center">
-      <a href="https://fluxer.com"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/card-fluxer.png" alt="Fluxer: plataforma de comunicação aberta, sem rastreamento nem anúncios" width="200"></a>
+      <a href="https://fluxer.com"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/card-fluxer.png" alt="Fluxer: plataforma de comunicação aberta, sem rastreamento nem anúncios" width="200"></a>
     </td>
     <td align="center">
-      <a href="https://thestupid.team"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/card-site.png" alt="the stupid team: site oficial" width="200"></a>
+      <a href="https://thestupid.team"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/card-site.png" alt="the stupid team: site oficial" width="200"></a>
     </td>
     <td align="center">
-      <a href="https://github.com/thestupidteam"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/card-github.png" alt="GitHub: nossos repositórios e código aberto" width="200"></a>
+      <a href="https://github.com/thestupidteam"><img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/card-github.png" alt="GitHub: nossos repositórios e código aberto" width="200"></a>
     </td>
   </tr>
 </table>
@@ -46,5 +46,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thestupidteam/.github/main/assets/made-by-tst.png" alt="Made by TST" height="26">
+  <img src="https://raw.githubusercontent.com/thestupidteam/.github/main/profile/assets/made-by-tst.png" alt="Made by TST" height="26">
 </div>
